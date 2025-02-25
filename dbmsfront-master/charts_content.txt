@@ -1,0 +1,159 @@
+m11
+United states
+
+Atmosphere Temperature VS Surface Temperature
+
+-- United States
+-- Y 
+- 1960 2018
+
+Takeawys
+
+* A clear correlation between surface and atmosphere can be observed indicating that rising 
+atmosphere temperatures can rise surface temperatures
+
+* both of them shows an upward trend over the decades
+
+* More spikes can be observed in recent years indicating the extreme weather events
+
+m12
+
+Number of Countries facing extreme weather events
+
+-- 1960 to 2018
+
+Formula : If the the percentage of temperature change between the consecutive months is
+more than 35% for atleast 4 months in a year
+
+While there isnt a clear upward trend in the overall data,
+further drilled down inspection can reveal peaks in certain geograpghic ares
+
+m13
+
+Atmospheric Temperature
+
+-- united states 
+-1970 to 2018
+
+The chart display average, minimum, maximum and standard deviation of temperatures within a year
+
+slight upward trand can be observed in the minimum temperatures
+
+
+m21
+
+CO2 Emissions
+--5
+--2000 to 2020
+
+---- Fixes
+change the topN  [2,3,4,5,6,7,8,9,10,11,12,13, 14,15]
+
+The chart gives holistic view of the countries over the years.
+
+It can be obseved from chart that some countries are reducing emissions whereas others not.
+
+m22
+
+CO2 Emissions vs GDP VS surface temperature
+-- fix the dual axis labels
+-- country United States
+-- 2000 to 2020
+While there was a noticeable correlation between CO2 emissions and GDP in the first decade, 
+this relationship has not persisted in the recent decade, suggesting a shift toward a more e
+nvironmentally conscious approach to economic growth
+
+m23 
+
+Carbon Intensity vs GDP
+
+-- country Germany
+--2000 to 2019
+
+The chart display a derived metric called carbon intensity,
+which is net co2 emission per person.
+A clear shift of relation between the GDP and carbon emissions can be observed.
+
+
+m24 
+
+Count of Non Eco-Friendly Countries
+
+-- 1980 to 2019
+
+Formula :  If the country produces co2 more than 1.5 times of gloabl avegrage for the respective year,
+the country is counted as non Eco friendly
+
+The rise and slight decline of non-eco friendly countries can be observed in chart 
+
+
+M31 
+
+Energy Consumption
+
+-- 5
+-- 2Y
+-- 1990 to 2019
+
+
+The chart depicts the leading electricity-consuming countries, 
+with all other nations grouped together as a single category to represent global consumption levels.
+
+
+M32 
+
+Electricty Consumption vs Co2 Emissions
+
+-- united states
+-- 1990 to 2019
+
+--- Fix, dual axis labels
+
+The chart illustrates a shifting relationship between electricity usage and CO2 emissions, 
+suggesting that countries are increasingly favoring greener energy sources.
+
+
+M41
+
+GLOBAL GDP ranks
+
+-- 10
+-- 2005 to 2019
+
+The chart displays the changing countires GDP positional ranks over time 
+
+
+m42
+
+-- 10
+-- 2001 to 2020
+The chart showcases the top 10 GDP countries, 
+while the remaining nations are aggregated into a 
+single category to represent their relative global position.
+
+From the chart, it is evident that the 'Rest of Countries' category has experienced substantial growth, 
+particularly at the beginning of the current decades, indicating global development trends
+
+M5 
+Internet Usage percent and YOY Growth rate 
+-- united states
+-- Y
+-- 2005 to 2020
+
+The chart displays the percentage of users in a selected country and the year-on-year growth rate of users
+
+This data can be used to assess how internet usage contributes to raising awareness about sustainability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

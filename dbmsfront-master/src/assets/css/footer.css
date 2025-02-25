@@ -1,0 +1,69 @@
+.custom-footer {
+    padding: 3rem 0;
+    background-color: #86ae93;
+    color: #9b5f5f;
+  }
+  
+  .footer-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+  }
+  
+  .footer-column {
+    flex: 1;
+  }
+  
+  .text-highlight {
+    color: #5e72e4; /* Primary color */
+    font-weight: 300;
+  }
+  
+  .font-light {
+    font-weight: 300;
+  }
+  
+  .social-buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn-circle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #212529; /* GitHub color */
+    margin-left: 0.5rem;
+  }
+  
+  .github-link:hover {
+    background-color: #5e72e4; /* Lighten on hover */
+  }
+  
+  .tooltip-custom {
+    visibility: hidden;
+    width: 120px;
+    background-color: #5e72e4;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .github-link:hover + .tooltip-custom,
+  #github-tooltip-trigger:focus + .tooltip-custom {
+    visibility: visible;
+  }
+  
+  /* FontAwesome GitHub icon */
+  .fab.fa-github {
+    font-size: 24px;
+  }
+  
